@@ -1,1 +1,5 @@
-theme: jekyll-theme-merlot
+plugins:
+  - jekyll-remote-theme
+remote_theme: zivong/ockham
+name: Mert's Website
+title: Mert's Website
