@@ -3,4 +3,5 @@
 
 # Socials
 - [Myanimelist](https://myanimelist.net/animelist/mertdogan)
+- [Letterboxd](https://letterboxd.com/mertdogan12/)
 - [Github](https://github.com/mertdogan12)
